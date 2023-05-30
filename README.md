@@ -48,7 +48,3 @@ In this example, the script searched for a file named "myfile" and found two mat
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as needed.
